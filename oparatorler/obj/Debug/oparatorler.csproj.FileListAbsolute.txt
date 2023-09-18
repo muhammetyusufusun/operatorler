@@ -1,0 +1,7 @@
+C:\Users\Matrix_15\source\repos\oparatorler\oparatorler\bin\Debug\oparatorler.exe.config
+C:\Users\Matrix_15\source\repos\oparatorler\oparatorler\bin\Debug\oparatorler.exe
+C:\Users\Matrix_15\source\repos\oparatorler\oparatorler\bin\Debug\oparatorler.pdb
+C:\Users\Matrix_15\source\repos\oparatorler\oparatorler\obj\Debug\oparatorler.csproj.AssemblyReference.cache
+C:\Users\Matrix_15\source\repos\oparatorler\oparatorler\obj\Debug\oparatorler.csproj.CoreCompileInputs.cache
+C:\Users\Matrix_15\source\repos\oparatorler\oparatorler\obj\Debug\oparatorler.exe
+C:\Users\Matrix_15\source\repos\oparatorler\oparatorler\obj\Debug\oparatorler.pdb

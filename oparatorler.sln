@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oparatorler", "oparatorler\oparatorler.csproj", "{288F28D2-93BE-4E4D-9AC3-B34D80F06A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288F28D2-93BE-4E4D-9AC3-B34D80F06A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288F28D2-93BE-4E4D-9AC3-B34D80F06A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288F28D2-93BE-4E4D-9AC3-B34D80F06A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288F28D2-93BE-4E4D-9AC3-B34D80F06A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4315FCD6-5144-4658-A088-ACAA73FA7FA0}
+	EndGlobalSection
+EndGlobal
